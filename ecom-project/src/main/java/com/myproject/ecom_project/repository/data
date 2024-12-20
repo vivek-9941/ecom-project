@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Model S",
+    "descript": "Luxury electric sedan with cutting-edge technology",
+    "price": 79999,
+    "brand": "Tesla",
+    "category": "Electric",
+    "releasedate": "2022-01-15",
+    "quantity": 5
+  },
+  {
+    "name": "Model 3",
+    "descript": "Affordable electric sedan with great performance",
+    "price": 39999,
+    "brand": "Tesla",
+    "category": "Electric",
+    "releasedate": "2021-09-10",
+    "quantity": 10
+  },
+  {
+    "name": "Mustang Mach-E",
+    "descript": "Ford's electric SUV with impressive range",
+    "price": 42999,
+    "brand": "Ford",
+    "category": "SUV",
+    "releasedate": "2021-05-20",
+    "quantity": 7
+  },
+  {
+    "name": "Civic Type R",
+    "descript": "Performance hatchback with turbocharged engine",
+    "price": 37999,
+    "brand": "Honda",
+    "category": "Hatchback",
+    "releasedate": "2020-03-15",
+    "quantity": 12
+  },
+  {
+    "name": "Corolla Hybrid",
+    "descript": "Fuel-efficient sedan with hybrid technology",
+    "price": 25999,
+    "brand": "Toyota",
+    "category": "Sedan",
+    "releasedate": "2020-12-01",
+    "quantity": 15
+  },
+  {
+    "name": "Camry TRD",
+    "descript": "Sport-tuned sedan with bold styling",
+    "price": 31999,
+    "brand": "Toyota",
+    "category": "Sedan",
+    "releasedate": "2019-10-10",
+    "quantity": 6
+  },
+  {
+    "name": "Model X",
+    "descript": "Luxury electric SUV with Falcon Wing doors",
+    "price": 89999,
+    "brand": "Tesla",
+    "category": "Electric",
+    "releasedate": "2022-03-05",
+    "quantity": 3
+  },
+  {
+    "name": "F-150 Lightning",
+    "descript": "Electric version of the iconic F-150 pickup truck",
+    "price": 49999,
+    "brand": "Ford",
+    "category": "Truck",
+    "releasedate": "2022-06-01",
+    "quantity": 4
+  },
+  {
+    "name": "Accord Hybrid",
+    "descript": "Spacious sedan with hybrid powertrain",
+    "price": 28999,
+    "brand": "Honda",
+    "category": "Sedan",
+    "releasedate": "2021-08-15",
+    "quantity": 8
+  },
+  {
+    "name": "911 Carrera",
+    "descript": "Iconic sports car with powerful performance",
+    "price": 99999,
+    "brand": "Porsche",
+    "category": "Sports",
+    "releasedate": "2023-01-20",
+    "quantity": 2
+  },
+  {
+    "name": "RAV4 Hybrid",
+    "descript": "Compact SUV with hybrid fuel efficiency",
+    "price": 30999,
+    "brand": "Toyota",
+    "category": "SUV",
+    "releasedate": "2021-11-10",
+    "quantity": 9
+  },
+  {
+    "name": "CX-5 Turbo",
+    "descript": "Stylish and sporty compact SUV",
+    "price": 33999,
+    "brand": "Mazda",
+    "category": "SUV",
+    "releasedate": "2021-04-20",
+    "quantity": 11
+  },
+  {
+    "name": "Grand Cherokee 4xe",
+    "descript": "Plug-in hybrid version of the Grand Cherokee",
+    "price": 60999,
+    "brand": "Jeep",
+    "category": "SUV",
+    "releasedate": "2022-09-01",
+    "quantity": 5
+  },
+  {
+    "name": "A4 Quattro",
+    "descript": "Luxury sedan with all-wheel drive",
+    "price": 40999,
+    "brand": "Audi",
+    "category": "Sedan",
+    "releasedate": "2020-06-15",
+    "quantity": 7
+  },
+  {
+    "name": "Taycan",
+    "descript": "All-electric luxury sports sedan",
+    "price": 104999,
+    "brand": "Porsche",
+    "category": "Electric",
+    "releasedate": "2022-05-01",
+    "quantity": 3
+  },
+  {
+    "name": "Silverado EV",
+    "descript": "Electric pickup truck with rugged performance",
+    "price": 55999,
+    "brand": "Chevrolet",
+    "category": "Truck",
+    "releasedate": "2023-02-10",
+    "quantity": 6
+  },
+  {
+    "name": "Explorer Hybrid",
+    "descript": "Three-row SUV with hybrid powertrain",
+    "price": 48999,
+    "brand": "Ford",
+    "category": "SUV",
+    "releasedate": "2021-10-20",
+    "quantity": 8
+  },
+  {
+    "name": "Q5 PHEV",
+    "descript": "Luxury plug-in hybrid SUV",
+    "price": 51999,
+    "brand": "Audi",
+    "category": "SUV",
+    "releasedate": "2022-02-01",
+    "quantity": 4
+  }
+]
